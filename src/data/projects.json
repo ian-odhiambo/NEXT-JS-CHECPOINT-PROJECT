@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Mtoto Wetu App",
+    "imageSrc": "projects/project.png",
+    "description": "This is an app we created for the mentally challenged children who struggle with school, an app dedicated to serve school by identifying,managing and educating these mentaly challenged chidren.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Big-Fish-Gig",
+    "imageSrc": "projects/project.png",
+    "description": "we couldnt have been in more luck to run into a popularly known and prestgious restaurants whom we designed a functional informational website tht would serve his busness",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Charity App",
+    "imageSrc": "projects/project.png",
+    "description": "This is we initially had kick satrt as a dummy project for the purpose of learning that was initiated by the instructor.This project, think of it like a filing system for the childrens home who are receiving support.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

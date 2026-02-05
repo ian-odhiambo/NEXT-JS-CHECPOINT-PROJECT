@@ -1,0 +1,41 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": ["Buit with MERN stack", "implemented user authentication","Deployed using Vercel and MongoDB Atlas"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": ["i have additional experties in the field of Graphics & Design", "Visit the link to my github on the very bottom of this portfolio webpage"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components",
+      "Worked with an additional role of creating UIs assigned and supplementing to push the company project with knowledge of using photoshop and canva"
+    ],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Task Management Application",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Created a Node.js/Express backend with RESTful API endpoints",
+      "Focused on clean UI and real-time updates"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
