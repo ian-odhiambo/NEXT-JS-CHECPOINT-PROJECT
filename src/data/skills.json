@@ -23,5 +23,17 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Redis Database",
+    "imageSrc": "skills/redis.png"
   }
 ]

@@ -1,3 +1,4 @@
 export const getImageUrl = (path) => {
-  return new URL(`/assets/${path}`, import.meta.url).href;
+  // append a cache-busting query param so browsers pick up replaced images
+  return `/assets/${path}?v=2`;
 };

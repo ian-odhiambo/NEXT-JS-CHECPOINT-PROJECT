@@ -5,7 +5,7 @@
     "startDate": "",
     "endDate": "",
     "experiences": ["Buit with MERN stack", "implemented user authentication","Deployed using Vercel and MongoDB Atlas"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/softwareEngineer.png"
   },
   {
     "role": "UI Designer",
@@ -13,7 +13,7 @@
     "startDate": "",
     "endDate": "",
     "experiences": ["i have additional experties in the field of Graphics & Design", "Visit the link to my github on the very bottom of this portfolio webpage"],
-    "imageSrc": "history/microsoft.png"
+    "imageSrc": "history/uiDesigner.png"
   },
   {
     "role": "Intern",
@@ -25,17 +25,17 @@
       "Helped create UI components",
       "Worked with an additional role of creating UIs assigned and supplementing to push the company project with knowledge of using photoshop and canva"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/intern.png"
   },
   {
-    "role": "Task Management Application",
+    "role": "Note Management Application",
     "organisation": "",
     "startDate": "",
     "endDate": "",
     "experiences": [
       "Created a Node.js/Express backend with RESTful API endpoints",
-      "Focused on clean UI and real-time updates"
+      "Focused on clean UI and real-time updates.An application that allows you to document by creating, updating and even deleting"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/application.png"
   }
 ]
